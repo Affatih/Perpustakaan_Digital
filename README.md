@@ -78,3 +78,18 @@ UAS_Web2_NIM_Nama/
 │   ├── app.js              # Router & State Management
 │   └── index.html          # Entry Point Aplikasi
 └── README.md
+
+
+## Petunjuk Instalasi
+
+Untuk menjalankan proyek ini secara lokal, pastikan Anda telah menginstal **PHP**, **Composer**, **MySQL/MariaDB**, dan **Python** di komputer Anda. Ikuti langkah-langkah berikut:
+
+### 1. Persiapan Database
+- Buka **phpMyAdmin** atau *database client* favorit Anda.
+- Buat database baru dengan nama `db_elibrary`.
+- Impor file database dari folder `backend-api/database.sql` (pastikan Anda sudah mengekspor database Anda ke file tersebut).
+
+### 2. Menjalankan Backend (API)
+- Buka terminal dan arahkan ke direktori proyek:
+  ```bash
+  cd backend-api
