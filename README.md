@@ -33,7 +33,8 @@ Proyek ini dirancang untuk memberikan efisiensi operasional bagi pustakawan dala
 
 
 ### 2. Proteksi API (Uji Coba 401 Unauthorized)
-*(Lampirkan screenshot Postman saat mengakses endpoint tanpa token)*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f29eec80-c12a-4f79-895e-9111d49904b9" />
+
 
 ### 3. Antarmuka Aplikasi (Screenshots)
 <p align="center">
