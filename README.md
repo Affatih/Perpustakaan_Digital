@@ -78,7 +78,7 @@ UAS_Web2_NIM_Nama/
 │   ├── app.js              # Router & State Management
 │   └── index.html          # Entry Point Aplikasi
 └── README.md
-
+```
 
 ## Petunjuk Instalasi
 
