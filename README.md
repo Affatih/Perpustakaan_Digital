@@ -42,7 +42,8 @@ Proyek ini dirancang untuk memberikan efisiensi operasional bagi pustakawan dala
 
   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c91c73b8-e5bb-4450-8bd9-17f19d65159f" />
 
-  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/812792ab-2bcf-4668-9ab9-77ac6aced2e8" />
+  <img width="1365" height="630" alt="image" src="https://github.com/user-attachments/assets/3ae4f816-ba3d-43f7-b22e-25cf9e745c7c" />
+
 
 </p>
 
