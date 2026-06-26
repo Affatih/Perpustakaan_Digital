@@ -29,7 +29,8 @@ Proyek ini dirancang untuk memberikan efisiensi operasional bagi pustakawan dala
 ## Dokumentasi Visual
 
 ### 1. Skema Relasi Database
-*(Lampirkan screenshot Designer phpMyAdmin Anda di sini)*
+<img width="1145" height="596" alt="image" src="https://github.com/user-attachments/assets/0241d54e-5299-4f0d-bace-e7dcd50d7caf" />
+
 
 ### 2. Proteksi API (Uji Coba 401 Unauthorized)
 *(Lampirkan screenshot Postman saat mengakses endpoint tanpa token)*
