@@ -36,12 +36,12 @@ Proyek ini dirancang untuk memberikan efisiensi operasional bagi pustakawan dala
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f29eec80-c12a-4f79-895e-9111d49904b9" />
 
 
-### 3. Antarmuka Aplikasi (Screenshots)
+### Antarmuka Aplikasi (Screenshots)
 <p align="center">
-  <img width="48%" alt="Halaman Login" src="[LINK_SCREENSHOT_LOGIN]" />
-  <img width="48%" alt="Dashboard Admin" src="[LINK_SCREENSHOT_DASHBOARD]" />
-  <img width="48%" alt="Form Katalog" src="[LINK_SCREENSHOT_FORM]" />
-  <img width="48%" alt="Tabel Data" src="[LINK_SCREENSHOT_TABEL]" />
+  <img width="48%" alt="Halaman Login" src="LINK_GAMBAR_LOGIN_ANDA" />
+  <img width="48%" alt="Dashboard Admin" src="LINK_GAMBAR_DASHBOARD_ANDA" />
+  <img width="48%" alt="Form Katalog" src="LINK_GAMBAR_FORM_ANDA" />
+  <img width="48%" alt="Tabel Data" src="LINK_GAMBAR_TABEL_ANDA" />
 </p>
 
 ---
