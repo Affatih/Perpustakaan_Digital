@@ -1,4 +1,4 @@
-# LiberaCatalog - Sistem Manajemen Perpustakaan Digital
+# Sistem Manajemen Perpustakaan Digital
 
 <p align="center">
   <img src="https://img.icons8.com/color/120/000000/library.png" alt="LiberaCatalog Logo" width="120" height="120" style="border-radius: 24px;"/>
@@ -38,10 +38,12 @@ Proyek ini dirancang untuk memberikan efisiensi operasional bagi pustakawan dala
 
 ### Antarmuka Aplikasi (Screenshots)
 <p align="center">
-  <img width="48%" alt="Halaman Login" src="LINK_GAMBAR_LOGIN_ANDA" />
-  <img width="48%" alt="Dashboard Admin" src="LINK_GAMBAR_DASHBOARD_ANDA" />
-  <img width="48%" alt="Form Katalog" src="LINK_GAMBAR_FORM_ANDA" />
-  <img width="48%" alt="Tabel Data" src="LINK_GAMBAR_TABEL_ANDA" />
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0de5a4a0-1e3d-4acf-ab08-61bab3173a39" />
+
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c91c73b8-e5bb-4450-8bd9-17f19d65159f" />
+
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/812792ab-2bcf-4668-9ab9-77ac6aced2e8" />
+
 </p>
 
 ---
