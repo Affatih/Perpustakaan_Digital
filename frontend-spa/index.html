@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>LiberaAdmin | Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/vue-router@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>body { font-family: 'Inter', sans-serif; }</style>
+</head>
+<body class="bg-[#F4F6F8] text-[#1A252C]">
+    <div id="app">
+        <div v-if="$route.path !== '/login'" class="flex min-h-screen">
+            <aside class="w-64 bg-[#00241E] text-white p-6 shadow-xl z-10">
+                <h1 class="text-2xl font-bold mb-10">LiberaCatalog</h1>
+                <nav class="space-y-2 font-medium">
+                    <router-link to="/" class="block py-3 px-4 rounded-lg transition-colors" :class="$route.path === '/' ? 'bg-[#004D40]' : 'hover:bg-[#004D40]'">Dashboard</router-link>
+                    <router-link to="/katalog" class="block py-3 px-4 rounded-lg transition-colors" :class="$route.path === '/katalog' ? 'bg-[#004D40]' : 'hover:bg-[#004D40]'">Katalog Buku</router-link>
+                    <button @click="logout" class="block w-full text-left py-3 px-4 hover:bg-[#00796B] rounded-lg text-red-300 mt-8 transition-colors">Logout</button>
+                </nav>
+            </aside>
+            
+            <main class="flex-1 p-8 h-screen overflow-y-auto">
+                <header class="flex justify-between items-center mb-8 bg-white p-4 rounded-xl shadow-sm">
+                    <h2 class="text-xl font-bold capitalize">{{ $route.name }}</h2>
+                    <div class="flex items-center gap-4">
+                        <span class="font-medium text-sm text-gray-600">Admin Libera</span>
+                        <div class="w-10 h-10 rounded-full bg-gray-300 border-2 border-[#004D40]"></div>
+                    </div>
+                </header>
+                <router-view></router-view>
+            </main>
+        </div>
+
+        <router-view v-else></router-view>
+    </div>
+
+    <script type="module" src="./app.js"></script>
+</body>
+</html>
